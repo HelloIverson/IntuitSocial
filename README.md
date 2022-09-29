@@ -18,8 +18,6 @@ Jeffrey begins the SQL Database (IN-PROGRESS)
 - Learn SQL lmao (IN-PROGRESS)
     
 - Give up on life (IN-PROGRESS)
-    
-Brannon begins flow chart (IN-PROGRESS)
 
 ---
 
@@ -33,7 +31,7 @@ Michan js builds:
         
 - Drawing first graphic?
         
-Jeffrey continues on unfinished things
+Jeffrey SQL + CSS
         
 - Begin CSS and styling for front end
         
@@ -41,7 +39,7 @@ Jeffrey continues on unfinished things
         
 - Actually be good
         
-Brannon begins the wirefram
+Brannon wireframe
 
 - Generate new ideas for the initial pitch
         
@@ -59,7 +57,13 @@ Anhkhoa finishes pitch
         
 - Think of uniquenesss propositions and the competitive market
         
-Arivan gets more sleep (we need him to be ready)
+Arivan gets more sleep (we need him to be ready) **BEFORE HE SLEEPS**
+
+- Help Anhkhoa **FINISH*** the pitch
+
+- Finish homework
+
+- Be on standby for further instructions
 
 **Final roster hopefully out today**
 
