@@ -9,12 +9,18 @@ Arivan sleeps (COMPLETE)
 
 Michan gets good (IN-PROGRESS)
     Get html to run js
+    
     Learn how to get the js program to make graphics
+    
     Learn how to get the js program to interact with data
     
+    
 Jeffrey begins the SQL Database (IN-PROGRESS)
+
     Create the database
+    
     Link the SQL database
+    
     Learn SQL lmao
     
 Brannon begins flow chart (IN-PROGRESS)
