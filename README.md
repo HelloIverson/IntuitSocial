@@ -47,7 +47,15 @@ Starting in business is very difficult for those that are part of minority group
         
 - Help with debugging, issues, and pull requests
         
-#### Tyler joins the fight(?)
+#### Tyler on JS team with Michan
+
+- Help load P5 on website
+
+- Structure index page
+
+- Help with general debugging
+
+- Flex your skills on us tn
 
 #### Anhkhoa pitch
 
@@ -65,6 +73,23 @@ Starting in business is very difficult for those that are part of minority group
 
 - Be on standby for further instructions
 
+#### Jonah on creative team w/ Anhkhoa + Arivan
+
+- Go through Intuit design course
+
+- Think of ideas for the website
+
+- Think of general ideas for uniqueness and functionality as well as branding things
+
 **Final roster hopefully out today**
+
+Current Roster:  
+Anhkhoa Le  
+Jeffrey Zou  
+Arivan Verma  
+Tyler Le  
+Jonah Fearnley  
+Micah Tien  
+Brannon Lai  
 
 ---
