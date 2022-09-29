@@ -1,9 +1,7 @@
 .test {
- margin: auto;
- width: 50%;
- border: 3px solid purple;
- background-color: blue;
- padding: 10px;
+    background-color: rgb(229, 50, 246); 
+    height: 500px;
+    width: 1000px;
 }
 
 h1 {
