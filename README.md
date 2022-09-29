@@ -4,7 +4,7 @@ Hi dink just click on the pen and then scroll down and click committ
 
 To do list:
 
-  get Jeffrey to give us access to the page
+/n  get Jeffrey to give us access to the page
 
   get the website to run code in javascript
 
