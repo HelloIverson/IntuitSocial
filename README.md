@@ -10,7 +10,7 @@ Arivan sleeps (COMPLETE)
 
 Michan gets good (IN-PROGRESS)
 
-    Get html to run js (complete)
+    Get html to run js (COMPLETE)
     
     Learn how to get the js program to make graphics
     
