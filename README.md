@@ -6,6 +6,8 @@ To Do List 9/28:
 
 Anhkhoa on pitch (IN-PROGRESS)
 
+Anhkhoa recruits people (IN-PROGRESS)
+
 Arivan sleeps (COMPLETE)
 
 Michan gets good (IN-PROGRESS)
