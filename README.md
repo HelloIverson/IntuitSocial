@@ -4,9 +4,9 @@ Hi dink just click on the pen and then scroll down and click committ
 
 To Do List 9/28:
 
-Anhkhoa on pitch (IN-PROGRESS)
+Anhkhoa begings pitch (COMPLETE)
 
-Anhkhoa recruits people (IN-PROGRESS)
+Anhkhoa recruits people (COMPLETE)
 
 Arivan sleeps (COMPLETE)
 
