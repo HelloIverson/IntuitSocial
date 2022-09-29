@@ -1,6 +1,9 @@
-for (let i=0; i<5; i++) {
-  console.log("<p" + i + "> TEST!! </p" + i + ">");
-  document.body.innerHTML = "<h1>hi :)</h1>";
+void setup() {
+  size(400, 400);
 }
-document.body.innerHTML = "<p>Done</p>";
-console.log("AMONG US!!!");
+
+void draw() {
+  background(255);
+  console.log("Working!");
+  noLoop();
+}
