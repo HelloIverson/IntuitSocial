@@ -14,10 +14,7 @@ Michan gets good (IN-PROGRESS)
 
     Get html to run js (COMPLETE)
     
-    Learn how to get the js program to make graphics
-    
-    Learn how to get the js program to interact with data
-    
+    Learn how to get the js program to make graphics (COMPLETEISH)
     
 Jeffrey begins the SQL Database (IN-PROGRESS)
 
