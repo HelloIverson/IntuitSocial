@@ -51,9 +51,9 @@ Starting in business is very difficult for those that are part of minority group
 
 #### Anhkhoa pitch
 
-- Collect data to add to the initial video pitch
+- Collect data to add to the initial video pitch (COMPLETE)
         
-- Plan out script and coordination for the video
+- Plan out script and coordination for the video (IN-PROGRESS)
         
 - Think of uniquenesss propositions and the competitive market
         
