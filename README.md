@@ -83,13 +83,13 @@ Starting in business is very difficult for those that are part of minority group
 
 **Final roster hopefully out today**
 
-Current Roster:  
-Anhkhoa Le  
-Jeffrey Zou  
-Arivan Verma  
-Tyler Le  
-Jonah Fearnley  
-Micah Tien  
-Brannon Lai  
+**Current Roster:**  
+Anhkhoa Le (Team Leader)  
+Jeffrey Zou (Project Lead)  
+Arivan Verma (Lead of Pitch Design)  
+Tyler Le (Javascript Lead)  
+Jonah Fearnley (Lead of Intuit Decisions)  
+Micah Tien (Main Code Lead)  
+Brannon Lai (Lead of Design)  
 
 ---
