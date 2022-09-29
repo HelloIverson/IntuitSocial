@@ -27,6 +27,6 @@ Jeffrey begins the SQL Database (IN-PROGRESS)
     
     Learn SQL lmao
     
-    Give up on life
+    Give up on life (IN-PROGRESS)
     
 Brannon begins flow chart (IN-PROGRESS)
