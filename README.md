@@ -8,6 +8,7 @@ Anhkhoa on pitch (IN-PROGRESS)
 Arivan sleeps (COMPLETE)
 
 Michan gets good (IN-PROGRESS)
+
     Get html to run js
     
     Learn how to get the js program to make graphics
