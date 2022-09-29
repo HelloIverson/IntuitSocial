@@ -2,28 +2,62 @@
 Our idea for the Intuit Social Innovation challenge 2022.
 Hi dink just click on the pen and then scroll down and click committ
 
-To Do List 9/28:
-
-Anhkhoa begings pitch (COMPLETE)
-
-Anhkhoa recruits people (COMPLETE)
-
-Arivan sleeps (COMPLETE)
+## Archived List 9/28 (Completed Items Removed):
 
 Michan gets good (IN-PROGRESS)
-
-    Get html to run js (COMPLETE)
     
-    Learn how to get the js program to make graphics (COMPLETEISH)
+- Learn how to get the js program to make graphics (COMPLETEISH)
     
 Jeffrey begins the SQL Database (IN-PROGRESS)
 
-    Create the database
+- Create the database (TABLED)
     
-    Link the SQL database
+- Link the SQL database (TABLED)
     
-    Learn SQL lmao
+- Learn SQL lmao (IN-PROGRESS)
     
-    Give up on life (IN-PROGRESS)
+- Give up on life (IN-PROGRESS)
     
 Brannon begins flow chart (IN-PROGRESS)
+
+---
+
+## To Do List 9/29:
+
+Michan js builds:
+
+- Debugging current js
+        
+- Linking P5 and debugging P5
+        
+- Drawing first graphic?
+        
+Jeffrey continues on unfinished things
+        
+- Begin CSS and styling for front end
+        
+- Edit wireframe for projekt
+        
+- Actually be good
+        
+Brannon begins the wirefram
+
+- Generate new ideas for the initial pitch
+        
+- Think of a realistic schedule and plan for the two weeks that we have
+        
+- Help with debugging, issues, and pull requests
+        
+Tyler joins the fight(?)
+
+Anhkhoa finishes pitch
+
+- Collect data to add to the initial video pitch
+        
+- Plan out script and coordination for the video
+        
+- Think of uniquenesss propositions and the competitive market
+        
+Arivan gets more sleep (we need him to be ready)
+
+**Final roster hopefully out today**
