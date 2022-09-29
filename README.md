@@ -1,6 +1,7 @@
 # Projekt Sekond
 Our idea for the Intuit Social Innovation challenge 2022.
-Hi dink just click on the pen and then scroll down and click committ
+
+Starting in business is very difficult for those that are part of minority groups. They find themselves facing struggles that range from being barred from higher positions, to general inability to enter the field to begin with. And this is something that must be changed. We introduce Projekt Sekond, the website that aims to help these minorities connect, establish, and enter the workforce with the opportunities and ablity that they should have.
 
 ## Archived List 9/28 (Completed Items Removed):
 
