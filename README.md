@@ -5,11 +5,11 @@ Starting in business is very difficult for those that are part of minority group
 
 ## Archived List 9/28 (Completed Items Removed):
 
-Michan gets good (IN-PROGRESS)
+### Michan gets good (IN-PROGRESS)
     
 - Learn how to get the js program to make graphics (COMPLETEISH)
     
-Jeffrey begins the SQL Database (IN-PROGRESS)
+### Jeffrey begins the SQL Database (IN-PROGRESS)
 
 - Create the database (TABLED)
     
@@ -23,7 +23,7 @@ Jeffrey begins the SQL Database (IN-PROGRESS)
 
 ## To Do List 9/29:
 
-Michan js builds:
+#### Michan js builds:
 
 - Debugging current js
         
@@ -31,7 +31,7 @@ Michan js builds:
         
 - Drawing first graphic?
         
-Jeffrey SQL + CSS
+#### Jeffrey SQL + CSS
         
 - Begin CSS and styling for front end
         
@@ -39,7 +39,7 @@ Jeffrey SQL + CSS
         
 - Actually be good
         
-Brannon wireframe
+#### Brannon wireframe
 
 - Generate new ideas for the initial pitch
         
@@ -47,9 +47,9 @@ Brannon wireframe
         
 - Help with debugging, issues, and pull requests
         
-Tyler joins the fight(?)
+#### Tyler joins the fight(?)
 
-Anhkhoa finishes pitch
+#### Anhkhoa pitch
 
 - Collect data to add to the initial video pitch
         
@@ -57,7 +57,7 @@ Anhkhoa finishes pitch
         
 - Think of uniquenesss propositions and the competitive market
         
-Arivan gets more sleep (we need him to be ready) **BEFORE HE SLEEPS**
+#### Arivan gets more sleep (we need him to be ready) **BEFORE HE SLEEPS**
 
 - Help Anhkhoa **FINISH*** the pitch
 
