@@ -65,7 +65,7 @@ Starting in business is very difficult for those that are part of minority group
         
 - Think of uniquenesss propositions and the competitive market
         
-#### Arivan gets more sleep (we need him to be ready) **BEFORE HE SLEEPS**
+#### Arivan gets more sleep (we need him to be ready) but also...
 
 - Help Anhkhoa **FINISH*** the pitch
 
