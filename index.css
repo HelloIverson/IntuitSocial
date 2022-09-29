@@ -1,7 +1,8 @@
 .test {
     background-color: rgb(229, 50, 246); 
-    height: 500px;
-    width: 500px;
+    height: 100px;
+    width: 200px;
+    margin: auto;
 }
 
 h1 {
