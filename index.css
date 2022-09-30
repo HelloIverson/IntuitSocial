@@ -12,6 +12,7 @@
     padding: 28px 32px;
     text-decoration: none;
     font-size: 24px;
+    .topnav.inset {border-style: inset;}
   }
   
   /* Change the color of links on hover */
