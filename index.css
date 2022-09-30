@@ -61,5 +61,6 @@ p {
 }
 
 .center {
+  width: 720px;
   margin: auto;
 }
