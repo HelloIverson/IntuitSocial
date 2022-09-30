@@ -79,4 +79,5 @@ p {
 .title {
   display: block;
   background-color: #1463bd;
+  height: 300px;
 }
