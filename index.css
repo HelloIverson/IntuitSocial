@@ -68,7 +68,7 @@
 
 h1 {
  text-align: center;
- color: #1463bd; 
+ color: #ccc; 
  font-size: 96px;
 }
 
@@ -76,3 +76,7 @@ p {
   margin: 25px 50px;  
 }
 
+.title {
+  display: block;
+  background-color: #1463bd;
+}
