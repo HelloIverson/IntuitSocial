@@ -71,6 +71,8 @@ Starting in business is very difficult for those that are part of minority group
 
 - Help Anhkhoa **FINISH*** the pitch
 
+- Brainstorm with Anhkhoa & Johan
+
 - Finish homework
 
 - Be on standby for further instructions
