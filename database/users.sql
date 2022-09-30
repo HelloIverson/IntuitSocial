@@ -1,7 +1,7 @@
 CREATE DATABASE users;
-CREATE TABLE userInfo (
-    LastName TEXT,
-    FirstName TEXT,
-    Age INTEGER,
-    ZipCode INTEGER
+create table userInfo (
+    LastName varchar(50),
+    FirstName varchar(50),
+    Age int,
+    ZipCode int
 );
