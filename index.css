@@ -55,3 +55,7 @@ h1 {
  text-align: center;
  color: #1463bd; 
 }
+
+p {
+  margin: 25px 50px;  
+}
