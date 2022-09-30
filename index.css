@@ -61,6 +61,7 @@ p {
 }
 
 .center {
+  background-color: #2196F3;
   width: 720px;
   margin: auto;
 }
