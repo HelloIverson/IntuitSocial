@@ -33,11 +33,11 @@ Starting in business is very difficult for those that are part of minority group
         
 #### Jeffrey SQL + CSS
         
-- Begin CSS and styling for front end
+- Begin CSS and styling for front end (COMPLETED)
         
 - Edit wireframe for projekt
         
-- Actually be good
+- Actually be good (IN-PROGRESS)
         
 #### Brannon wireframe -> map
 
