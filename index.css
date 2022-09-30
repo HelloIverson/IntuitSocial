@@ -1,7 +1,12 @@
 .center {
   background-color: #2196F3;
   width: 720px;
-  margin: auto;
+  margin: 0 auto;
+}
+
+.center iframe {
+  display: block;
+  margin: 0 auto;
 }
 
 .topnav {
