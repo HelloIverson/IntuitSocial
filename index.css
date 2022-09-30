@@ -71,8 +71,7 @@ body {
   }
 
 h1 {
- height: auto;
- text-align: center;
+ margin: 15 auto;
  color: #f5e4e0; 
  font-size: 128px;
 }
@@ -82,6 +81,7 @@ p {
 }
 
 .title {
+  text-align: center;
   display: block;
   background-color: #bd9d83;
   height: 300px;
