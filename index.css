@@ -35,8 +35,8 @@
   
   /* Style the "active" element to highlight the current page */
   .topnav a.active {
-    background-color: #c79c69;
-    color: #D3875F;
+    background-color: #5a3b21;
+    color: #f5e4e0;
     border-radius: 20px;
   }
   
