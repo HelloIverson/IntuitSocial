@@ -3,7 +3,18 @@ Our idea for the Intuit Social Innovation challenge 2022.
 
 Starting in business is very difficult for those that are part of minority groups. They find themselves facing struggles that range from being barred from higher positions, to general inability to enter the field to begin with. And this is something that must be changed. We introduce Projekt Sekond, the website that aims to help these minorities connect, establish, and enter the workforce with the opportunities and ablity that they should have.
 
-## Archived List 9/28 (Completed Items Removed):
+**Final roster hopefully out today**
+
+**Current Roster:**  
+Anhkhoa Le (Team Leader)  
+Jeffrey Zou (Project Lead)  
+Arivan Verma (Lead of Pitch Design)  
+Tyler Le (Javascript Lead)  
+Jonah Fearnley (Python Head and Lead of Intuit Decision)  
+Micah Tien (Main Code Lead)  
+Brannon Lai (Lead of Design)  
+
+## Archived List 9/28 (Completed Items Removed, Work Time 3 Hours):
 
 ### Michan gets good (IN-PROGRESS)
     
@@ -21,35 +32,13 @@ Starting in business is very difficult for those that are part of minority group
 
 ---
 
-## To Do List 9/29:
-
-#### Michan js builds:
-
-- Debugging current js 
+## Archived List 9/29 (Completed Items Removed, Work Time 6 Hours):
         
-- Linking P5 and debugging P5 (IN PROGRESS)
-        
-- Drawing first graphic?
-        
-#### Jeffrey SQL + CSS
-        
-- Begin CSS and styling for front end (COMPLETED)
-        
-- Edit wireframe for projekt (COMPLETED BECAUSE DONT CARE ENOUGH)
-        
-- Actually be good (IN-PROGRESS)
-        
-#### Brannon wireframe -> map
-
-- Generate new ideas for the initial pitch
-        
-- Think of a realistic schedule and plan for the two weeks that we have
-        
-- Help with debugging, issues, and pull requests
+### Brannon wireframe -> map
 
 - Create interactive map! (good luck)
         
-#### Tyler on JS team with Michan
+### Tyler on JS team with Michan
 
 - Help load P5 on website
 
@@ -59,25 +48,13 @@ Starting in business is very difficult for those that are part of minority group
 
 - Flex your skills on us tn
 
-#### Anhkhoa pitch
-
-- Collect data to add to the initial video pitch (COMPLETE)
-        
+### Anhkhoa pitch
+ 
 - Plan out script and coordination for the video (IN-PROGRESS)
         
-- Think of uniquenesss propositions and the competitive market
-        
-#### Arivan gets more sleep (we need him to be ready) but also...
+- Think of uniquenesss propositions and the competitive market (IN-PROGRESS)
 
-- Help Anhkhoa **FINISH*** the pitch
-
-- Brainstorm with Anhkhoa & Johan
-
-- Finish homework
-
-- Be on standby for further instructions
-
-#### Jonah on creative team w/ Anhkhoa + Arivan
+### Jonah on creative team w/ Anhkhoa + Arivan
 
 - Go through Intuit design course
 
@@ -85,15 +62,54 @@ Starting in business is very difficult for those that are part of minority group
 
 - Think of general ideas for uniqueness and functionality as well as branding things
 
-**Final roster hopefully out today**
-
-**Current Roster:**  
-Anhkhoa Le (Team Leader)  
-Jeffrey Zou (Project Lead)  
-Arivan Verma (Lead of Pitch Design)  
-Tyler Le (Javascript Lead)  
-Jonah Fearnley (Python Head and Lead of Intuit Decision)  
-Micah Tien (Main Code Lead)  
-Brannon Lai (Lead of Design)  
-
 ---
+
+## To Do List 9/30: Back End Day
+
+#### Anhkhoa Le: **SUPPORT**
+
+- Debug current front end
+
+- Finish styles and design for current front end
+
+- Oversee progress of our design team
+
+#### Micah Tien: **PREPARE**
+
+- Integrate javascript with the potential SQL code
+
+- Debug current front end
+
+- Begin on back end operations as well as integration of features
+
+- Psuedocode functionality for future additions
+
+#### Jeffrey Zou: **INTEGRATE**
+
+- Integrate SQL into javascript code
+
+- Work on functionality with focus on the searching
+
+- Debug and design front end
+
+- Integrate database analytics into the current system
+
+#### Brannon Lai: **OPTIMIZE**
+
+- Focus on integrating map and search features
+
+- Clean up code so it is more readable (potentially separate CSS files)
+
+- Optimize styling based on Anhkhoa's designs
+
+#### Arivan Verma: **ANALYZE**
+
+- Research into analytics regarding the design of our website
+
+- Plan out additional pages as well as content to include on all current pages
+
+- Continue logo design and scripting
+
+### Tyler Le and Jonah Fearnley will recieve tasks when they confirm their joining
+
+## Try to finalize the roster by today, we can't be losing any amount of work time that we could have
