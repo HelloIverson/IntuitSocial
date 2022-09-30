@@ -25,9 +25,9 @@ Starting in business is very difficult for those that are part of minority group
 
 #### Michan js builds:
 
-- Debugging current js
+- Debugging current js 
         
-- Linking P5 and debugging P5
+- Linking P5 and debugging P5 (IN PROGRESS)
         
 - Drawing first graphic?
         
