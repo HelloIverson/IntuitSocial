@@ -92,7 +92,7 @@ Anhkhoa Le (Team Leader)
 Jeffrey Zou (Project Lead)  
 Arivan Verma (Lead of Pitch Design)  
 Tyler Le (Javascript Lead)  
-Jonah Fearnley (Lead of Intuit Decisions)  
+Jonah Fearnley (Python Head)  
 Micah Tien (Main Code Lead)  
 Brannon Lai (Lead of Design)  
 
