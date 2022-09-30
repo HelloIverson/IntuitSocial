@@ -77,10 +77,6 @@ body {
  text-align: center;
 }
 
-p {
-  margin: 25px 50px;  
-}
-
 .title {
   margin: 15 auto;
   text-align: center;
@@ -89,4 +85,8 @@ p {
   height: 300px;
   opacity: 0.8;
   border-radius: 20px;
+}
+
+p {
+  margin: 25px 50px;  
 }
