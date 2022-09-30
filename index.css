@@ -78,8 +78,7 @@ body {
 }
 
 .title {
-  margin: 15 auto;
-  text-align: center;
+  margin: 0 auto;
   display: block;
   background-color: #bd9d83;
   height: 300px;
