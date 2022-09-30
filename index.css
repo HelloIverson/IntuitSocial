@@ -59,3 +59,7 @@ h1 {
 p {
   margin: 25px 50px;  
 }
+
+.center {
+  margin: auto;
+}
