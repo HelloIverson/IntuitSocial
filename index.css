@@ -71,8 +71,8 @@ body {
   }
 
 h1 {
+ height: auto;
  text-align: center;
- margin: 0 auto;
  color: #f5e4e0; 
  font-size: 128px;
 }
@@ -85,5 +85,6 @@ p {
   display: block;
   background-color: #bd9d83;
   height: 300px;
+  opacity: 0.6;
   border-radius: 20px;
 }
