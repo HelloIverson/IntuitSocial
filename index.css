@@ -70,8 +70,7 @@ body {
     }
   }
 
-h1 {
- margin: 15 auto;
+.title p {
  color: #f5e4e0; 
  font-size: 128px;
 }
@@ -81,6 +80,7 @@ p {
 }
 
 .title {
+  margin: 15 auto;
   text-align: center;
   display: block;
   background-color: #bd9d83;
