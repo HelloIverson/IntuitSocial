@@ -32,7 +32,7 @@ body {
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #f5e4e0;
     color: black;
     border-radius: 20px;
   }
