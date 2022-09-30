@@ -35,8 +35,8 @@
   
   /* Style the "active" element to highlight the current page */
   .topnav a.active {
-    background-color: #2196F3;
-    color: white;
+    background-color: #EFC8B4;
+    color: #D3875F;
     border-radius: 20px;
   }
   
@@ -78,6 +78,6 @@ p {
 
 .title {
   display: block;
-  background-color: #1463bd;
+  background-color: #E4C8BA;
   height: 300px;
 }
