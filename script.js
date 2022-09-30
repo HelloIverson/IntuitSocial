@@ -13,6 +13,7 @@ let keysPressed;
 let upVector;
 let toMouse;
 let angle;
+let specialkeys;
 
 let testosterones;
 let bullets;
@@ -67,6 +68,9 @@ function setup() {
   frictionForce = 0.025;
   turnSpeed = 0.05;
   brakeSpeed = 0.05;
+  
+  //fixing shoddy code
+  specialkeys = ["a", "d", "w", "s", "t", "r", "g", "q", "n", "o", "h", "`"];
 }
 
 
@@ -452,31 +456,15 @@ class player {
   }
 }
 function keyPressed() {
-  if (key == "a") keysPressed[0] = true;
-  if (key == "d") keysPressed[1] = true;
-  if (key == "w") keysPressed[2] = true;
-  if (key == "s") keysPressed[3] = true;
-  if (key == "t") keysPressed[4] = true;
-  if (key == "r") keysPressed[5] = true;
-  if (key == "g") keysPressed[6] = true;
-  if (key == "q") keysPressed[7] = true;
-  if (key == "n") keysPressed[8] = true;
-  if (key == "o") keysPressed[9] = true;
-  if (key == "h") keysPressed[10] = true;
+  for (let i=0; i<specialkeys.length; i++) {
+    if (key == specialkeys[i]) keysPressed[i] = true;
+  }
 }
 
 function keyReleased() {
-  if (key == "a") keysPressed[0] = false;
-  if (key == "d") keysPressed[1] = false;
-  if (key == "w") keysPressed[2] = false;
-  if (key == "s") keysPressed[3] = false;
-  if (key == "t") keysPressed[4] = false;
-  if (key == "r") keysPressed[5] = false;
-  if (key == "g") keysPressed[6] = false;
-  if (key == "q") keysPressed[7] = false;
-  if (key == "n") keysPressed[8] = false;
-  if (key == "o") keysPressed[9] = false;
-  if (key == "h") keysPressed[10] = false;
+  for (let i=0; i<specialkeys.length; i++) {
+    if (key == specialkeys[i]) keysPressed[i] = false;
+  }
 }
 
 function drawBackground() {
@@ -488,13 +476,6 @@ function drawBackground() {
   
   fill(0);
   rect(100, 100, width-200, height-200);
-}
-
-function mousePressed() {
-  if (mouseX > 0 && mouseX < windowWidth && mouseY > 0 && mouseY < windowHeight) {
-    let fs = fullscreen();
-    fullscreen(!fs);
-  }
 }
 
 function createAsteroid() {
