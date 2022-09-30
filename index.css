@@ -10,7 +10,7 @@
 
 .topnav {
     overflow: hidden;
-    background-color: #e9e9e9;
+    background-color: #bd9d83;
     border-radius: 20px;
   }
   
@@ -35,7 +35,7 @@
   
   /* Style the "active" element to highlight the current page */
   .topnav a.active {
-    background-color: #EFC8B4;
+    background-color: #c79c69;
     color: #D3875F;
     border-radius: 20px;
   }
@@ -68,7 +68,7 @@
 
 h1 {
  text-align: center;
- color: #ccc; 
+ color: #f5e4e0; 
  font-size: 128px;
 }
 
@@ -78,6 +78,6 @@ p {
 
 .title {
   display: block;
-  background-color: #E4C8BA;
+  background-color: #bd9d83;
   height: 300px;
 }
