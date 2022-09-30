@@ -35,7 +35,7 @@ Starting in business is very difficult for those that are part of minority group
         
 - Begin CSS and styling for front end (COMPLETED)
         
-- Edit wireframe for projekt
+- Edit wireframe for projekt (COMPLETED BECAUSE DONT CARE ENOUGH)
         
 - Actually be good (IN-PROGRESS)
         
