@@ -70,10 +70,11 @@ body {
     }
   }
 
-h1 {
+.title h1 {
  color: #f5e4e0; 
  font-size: 128px;
  height: 50%;
+ text-align: center;
 }
 
 p {
