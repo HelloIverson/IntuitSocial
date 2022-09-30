@@ -39,13 +39,15 @@ Starting in business is very difficult for those that are part of minority group
         
 - Actually be good
         
-#### Brannon wireframe
+#### Brannon wireframe -> map
 
 - Generate new ideas for the initial pitch
         
 - Think of a realistic schedule and plan for the two weeks that we have
         
 - Help with debugging, issues, and pull requests
+
+- Create interactive map! (good luck)
         
 #### Tyler on JS team with Michan
 
