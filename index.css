@@ -15,7 +15,7 @@ body {
 .topnav {
     overflow: hidden;
     background-color: #bd9d83;
-    border-radius: 20px;
+    border-radius: 20px 20px 10px 20px;
   }
   
   /* Style the links inside the navigation bar */
