@@ -99,12 +99,12 @@ p {
 
 .statlist {
   overflow: hidden;
-  background-image: linear-gradient(to right, #666DF5, #8F94F1);
+  background-image: linear-gradient(to right, #666DF5, #A4A8F2);
   border-radius: 20px 20px 0px 0px;
   padding-left: 3px;
 }
 
-.statlist .stat {
+.statlist p.stat {
   float: left;
   display: block;
   color: black;
@@ -116,8 +116,8 @@ p {
   margin: 5px 3px 5px 3px;
 }
 
-.statlist .stat:hover {
-  background-color: #f5e4e0;
+.statlist .stat {
+  background-color: #ffffff;
   color: black;
   border-radius: 20px;
   margin: 5px 3px 5px 3px;
