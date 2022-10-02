@@ -17,6 +17,10 @@ body {
     background-color: #bd9d83;
     border-radius: 20px 20px 0px 0px;
   }
+
+  .topnav home {
+    margin-left: 6px;
+  }
   
   /* Style the links inside the navigation bar */
   .topnav a {
@@ -32,10 +36,6 @@ body {
     margin-left: 3px;
     margin-bottom: 5px;
     margin-right: 3px;
-  }
-  
-  .topnav home {
-    margin-left: 6px;
   }
 
   /* Change the color of links on hover */
