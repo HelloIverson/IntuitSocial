@@ -95,6 +95,7 @@ body {
 
 p {
   margin: 25px 50px;  
+  font-size: 32px;
 }
 
 .statlist {
@@ -123,4 +124,14 @@ p {
   width: 312px;
   margin: 5px 50px 5px 50px;
   padding: 20px auto;
+}
+
+.importance {
+  font-size: 84px;
+  color: rgb(105, 19, 105);
+}
+
+.number {
+  font-size: 56px;
+  color: rgb(105, 19, 105);
 }
