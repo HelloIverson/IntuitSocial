@@ -98,5 +98,5 @@ p {
 }
 
 .statlist {
-  background-image: linear-gradient(#F07415, #F5B460);
+  background-image: linear-gradient(to right, #F07415, #F5B460);
 }
