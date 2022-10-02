@@ -100,8 +100,7 @@ p {
 .statlist {
   overflow: hidden;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
-  border-radius: 20px 20px 0px 0px;
-  padding-left: 3px;
+  padding-left: 6px;
 }
 
 .statlist p.stat {
@@ -109,11 +108,10 @@ p {
   display: block;
   color: black;
   text-align: center;
-  padding: 28px 32px;
   text-decoration: none;
   font-size: 24px;
   border-radius: 20px;
-  margin: 5px 3px 5px 3px;
+  margin: 5px 6px 5px 6px;
 }
 
 .statlist .stat {
