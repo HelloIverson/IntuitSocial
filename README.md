@@ -18,7 +18,7 @@ Brannon Lai (Lead of Design)
 
 ### Michan gets good (IN-PROGRESS)
     
-- Learn how to get the js program to make graphics (COMPLETEISH)
+- Learn how to get the js program to make graphics (COMPLETE)
     
 ### Jeffrey begins the SQL Database (IN-PROGRESS)
 
