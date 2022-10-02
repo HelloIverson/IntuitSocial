@@ -115,6 +115,7 @@ p {
 }
 
 .statlist .stat {
+  float: left;
   background-color: #ffffff;
   color: black;
   border-radius: 20px;
