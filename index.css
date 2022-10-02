@@ -99,7 +99,7 @@ p {
 
 .statlist {
   overflow: hidden;
-  background-image: linear-gradient(to right, #878cf0, #666DF5);
+  background-image: linear-gradient(to right, #666DF5, #8F94F1);
 }
 
 .statlist .stat {
