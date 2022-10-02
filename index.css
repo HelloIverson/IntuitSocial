@@ -101,6 +101,7 @@ p {
   overflow: hidden;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
   padding-left: 6px;
+  margin: 100px 0px 100px 0px;
 }
 
 .statlist p.stat {
