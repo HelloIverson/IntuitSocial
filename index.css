@@ -116,10 +116,11 @@ p {
 
 .statlist .stat {
   float: left;
+  text-align: center;
   background-color: #ffffff;
   color: black;
   border-radius: 20px;
-  height:64px;
-  width: 96px;
+  height: 128px;
+  width: 156px;
   margin: 5px 3px 5px 3px;
 }
