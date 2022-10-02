@@ -85,7 +85,7 @@ margin: 0 auto;
   background-color: #bd9d83;
   height: 300px;
   opacity: 0.8;
-  border-radius: 20px;
+  border-radius: 0px 0px 20px 20px;
 }
 
 p {
