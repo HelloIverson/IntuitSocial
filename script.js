@@ -1,8 +1,8 @@
 let pjsklogo;
-void preload() {
+function preload() {
   pjsklogo = loadImage("images/pjskLogoPrototype.png");
 }
 
-void draw() {
+function draw() {
   image(pjsklogo, 0, 0);
 }
