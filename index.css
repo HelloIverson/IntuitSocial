@@ -112,5 +112,5 @@ p {
 .statlist p.stat {
   float: left;
   display: block;
-  padding: 48px 48px, 48px, 48px;
+  margin: 48px 24px, 48px, 24px;
 }
