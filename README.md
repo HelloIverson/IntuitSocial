@@ -73,3 +73,49 @@ Brannon Lai (Lead of Design)
 ### Jeffrey Zou: **INTEGRATE**
 
 - Integrate SQL into site (IN-PROGRESS)
+
+---
+
+### To Do List 10/2: Front End Workload
+
+#### Jeffrey Zou: STYLE
+
+- Focus on styling front end
+
+- Add additional functions such as drop downs
+
+- Write out and format each page
+
+#### Anhkhoa Le: DESIGN
+
+- Figure out official color schemes
+
+- Officialize the name and branding
+
+- Trailblaze work on the slideshow
+
+#### Micah Tien: EMBED
+
+- Focus on embedding images
+
+- Figure out background imaging and opacity
+
+#### Tyler Le: IDK
+
+- Show us what you can do
+
+- Give input on technical issues
+
+- Use your expertise
+
+#### Arivan Verma: BRANDING
+
+- Give us a brand name!
+
+- Really fill out the ins and outs of what we want to look like
+
+- Research more into aesthetics and attracting potential registrees
+
+#### Brannon Lai and Jonah Fearnley: On Break
+
+---
