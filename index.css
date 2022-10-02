@@ -16,6 +16,7 @@ body {
     overflow: hidden;
     background-color: #bd9d83;
     border-radius: 20px 20px 0px 0px;
+    padding-left: 3px;
   }
 
   /* Style the links inside the navigation bar */
@@ -47,9 +48,6 @@ body {
     margin: 5px 3px 5px 3px;
   }
 
-  .topnav home {
-    margin-left: 6px;
-  }
   
   /* Style the search box inside the navigation bar */
   .topnav input[type=text] {
