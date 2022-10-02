@@ -35,7 +35,6 @@ body {
     background-color: #f5e4e0;
     color: black;
     border-radius: 20px;
-    margin: 3px;
   }
   
   /* Style the "active" element to highlight the current page */
@@ -43,7 +42,6 @@ body {
     background-color: #5a3b21;
     color: #f5e4e0;
     border-radius: 20px;
-    margin: 3px;
   }
   
   /* Style the search box inside the navigation bar */
@@ -85,7 +83,7 @@ margin: 0 auto;
   margin: 0 auto;
   display: block;
   background-color: #bd9d83;
-  height: 300px;
+  height: 138px;
   opacity: 0.8;
   border-radius: 0px 0px 20px 20px;
 }
