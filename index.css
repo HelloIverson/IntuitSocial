@@ -98,5 +98,19 @@ p {
 }
 
 .statlist {
+  overflow: hidden;
   background-image: linear-gradient(to right, #F07415, #F5B460);
+}
+
+.statlist .stat {
+  background-color: #f8f3f0;
+  height: 128px;
+  width: 256px;
+  border-radius: 20px;
+}
+
+.statlist p.stat {
+  float: left;
+  display: block;
+  padding: 48px 56px;
 }
