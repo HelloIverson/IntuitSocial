@@ -70,6 +70,6 @@ Brannon Lai (Lead of Design)
 
 ## Archived List 10/1: Back End Day (Completed Items Removed, Work Time 3 hours)
 
-#### Jeffrey Zou: **INTEGRATE**
+### Jeffrey Zou: **INTEGRATE**
 
 - Integrate SQL into site (IN-PROGRESS)
