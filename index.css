@@ -34,6 +34,10 @@ body {
     margin-right: 3px;
   }
   
+  .topnav home {
+    margin-left: 6px;
+  }
+  
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: #f5e4e0;
