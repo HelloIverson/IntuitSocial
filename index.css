@@ -105,8 +105,8 @@ p {
 
 .statlist .stat {
   background-color: #f8f3f0;
-  height: 128px;
-  width: 256px;
+  height: 256px;
+  width: 512px;
   border-radius: 20px;
 }
 
@@ -115,6 +115,5 @@ p {
   display: block;
   text-align: center;
   text-decoration: none;
-  padding: 28px 32px;
-  margin: 48px 24px, 48px, 24px;
+  padding: 28px 32px 28px 32px;
 }
