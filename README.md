@@ -64,52 +64,12 @@ Brannon Lai (Lead of Design)
 
 ---
 
-## To Do List 9/30: Back End Day
+## Break Day 9/30 
 
-#### Anhkhoa Le: **SUPPORT**
+---
 
-- Debug current front end
-
-- Finish styles and design for current front end
-
-- Oversee progress of our design team
-
-#### Micah Tien: **PREPARE**
-
-- Integrate javascript with the potential SQL code
-
-- Debug current front end
-
-- Begin on back end operations as well as integration of features
-
-- Psuedocode functionality for future additions
+## Archived List 10/1: Back End Day (Completed Items Removed, Work Time 3 hours)
 
 #### Jeffrey Zou: **INTEGRATE**
 
-- Integrate SQL into javascript code
-
-- Work on functionality with focus on the searching
-
-- Debug and design front end
-
-- Integrate database analytics into the current system
-
-#### Brannon Lai: **OPTIMIZE**
-
-- Focus on integrating map and search features
-
-- Clean up code so it is more readable (potentially separate CSS files)
-
-- Optimize styling based on Anhkhoa's designs
-
-#### Arivan Verma: **ANALYZE**
-
-- Research into analytics regarding the design of our website
-
-- Plan out additional pages as well as content to include on all current pages
-
-- Continue logo design and scripting
-
-### Tyler Le and Jonah Fearnley will recieve tasks when they confirm their joining
-
-## Try to finalize the roster by today, we can't be losing any amount of work time that we could have
+- Integrate SQL into site (IN-PROGRESS)
