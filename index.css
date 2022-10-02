@@ -100,13 +100,13 @@ p {
 .statlist {
   overflow: hidden;
   background-image: linear-gradient(to right, #666DF5, #8F94F1);
-  height: 64px;
+  height: 128px;
 }
 
 .statlist .stat {
   background-color: #f8f3f0;
-  height: 256px;
-  width: 512px;
+  height: 128px;
+  width: 256px;
   border-radius: 20px;
 }
 
