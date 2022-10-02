@@ -128,12 +128,12 @@ p {
 
 .importance {
   font-size: 84px;
-  color: rgb(105, 19, 105);
+  color: rgb(77, 228, 226);
   margin: 10px 0px 10px 0px;
 }
 
 .number {
   font-size: 48px;
   color: rgb(105, 19, 105);
-  margin: 0 auto;
+  margin-left: 10px;
 }
