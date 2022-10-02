@@ -112,5 +112,6 @@ p {
 .statlist p.stat {
   float: left;
   display: block;
+  text-align: center;
   margin: 48px 24px, 48px, 24px;
 }
