@@ -124,4 +124,7 @@ p {
   height: 256px;
   width: 312px;
   margin: 5px 3px 5px 3px;
+  border-color: #ccc;
+  border-width: 25px;
+  border-style: ridge;
 }
