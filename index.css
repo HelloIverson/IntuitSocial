@@ -122,7 +122,10 @@ p {
   border-radius: 20px;
   height: 256px;
   width: 312px;
-  margin: 8%;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 1%;
+  margin-bottom: 2%;
   padding: 20px auto;
 }
 
