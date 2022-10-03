@@ -94,7 +94,7 @@ Brannon Lai (Lead of Design)
 
 - Trailblaze work on the slideshow
 
-- Anti-racism training (IN-PROGRESS)
+- Anti-racism training (COMPLETE)
 
 #### Micah Tien: EMBED
 
