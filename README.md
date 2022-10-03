@@ -94,6 +94,8 @@ Brannon Lai (Lead of Design)
 
 - Trailblaze work on the slideshow
 
+- Anti-racism training (IN-PROGRESS)
+
 #### Micah Tien: EMBED
 
 - Focus on embedding images
