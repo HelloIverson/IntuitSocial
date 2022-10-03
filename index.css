@@ -130,16 +130,20 @@ p {
   font-size: 84px;
   color: #FFD470;
   margin: 10px 0px 10px 0px;
-  font-family: 'Roboto Slab';
-  src: url('RobotoSlab-Bold[1].woff2') format('woff2'),
-      url('RobotoSlab-Bold[1].woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+  font-family: 'RobotoSlab-Bold';
 }
 
 .number {
   font-size: 48px;
   color: rgb(105, 19, 105);
   margin: 15px 10px 5px 10px;
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('RobotoSlab-Bold.woff2') format('woff2'),
+      url('RobotoSlab-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
