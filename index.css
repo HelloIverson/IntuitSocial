@@ -101,8 +101,8 @@ p {
 .statlist {
   overflow: hidden;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
-  padding-left: 8%;
-  padding-right: 8%;
+  padding-left: 7%;
+  padding-right: 7%;
   margin: 100px 0px 100px 0px;
 }
 
@@ -122,8 +122,8 @@ p {
   border-radius: 20px;
   height: 256px;
   width: 312px;
-  margin-left: 8%;
-  margin-right: 8%;
+  margin-left: 7%;
+  margin-right: 7%;
   margin-top: 1%;
   margin-bottom: 2%;
   padding: 20px auto;
