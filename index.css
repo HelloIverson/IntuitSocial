@@ -130,7 +130,7 @@ p {
   font-size: 84px;
   color: #FFD470;
   margin: 10px 0px 10px 0px;
-  font-family: 'Roboto Slab';
+  font-family: Roboto;
 }
 
 .number {
@@ -140,7 +140,7 @@ p {
 }
 
 @font-face {
-  font-family: 'Roboto Slab';
+  font-family: Roboto;
   src: url('RobotoSlab-Bold.woff2') format('woff2'),
       url('RobotoSlab-Bold.woff') format('woff');
   font-weight: bold;
