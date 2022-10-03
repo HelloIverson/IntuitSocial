@@ -101,8 +101,8 @@ p {
 .statlist {
   overflow: hidden;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 3%;
+  padding-right: 3%;
   margin: 100px 0px 100px 0px;
 }
 
@@ -129,7 +129,7 @@ p {
 .importance {
   font-size: 84px;
   color: #FFD470;
-  margin: 10px 0px 10px 0px;
+  margin: 3%;
   font-family: Roboto;
 }
 
