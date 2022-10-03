@@ -130,6 +130,9 @@ p {
   font-size: 84px;
   color: #FFD470;
   margin: 10px 0px 10px 0px;
+  font-family: 'Roboto Slab';
+  font-weight: bold;
+  font-style: normal;
 }
 
 .number {
