@@ -76,48 +76,58 @@ Brannon Lai (Lead of Design)
 
 ---
 
-### To Do List 10/2: Front End Workload
+## To Do List 10/2: Front End Workload (Logged but not fully archived yet) (Work Time 3 Hours)
 
-#### Jeffrey Zou: STYLE
+### Jeffrey Zou: STYLE
 
-- Focus on styling front end
+- Focus on styling front end (COMPLETED)
 
-- Add additional functions such as drop downs
+- Add additional functions such as drop downs (IN-PROGRESS)
 
-- Write out and format each page
+- Write out and format each page (WAITING ON INPUT)
 
-#### Anhkhoa Le: DESIGN
+### Anhkhoa Le: DESIGN
 
-- Figure out official color schemes
+- Figure out official color schemes (IN-POROGRESS)
 
-- Officialize the name and branding
+- Officialize the name and branding (COMPLETED)
 
-- Trailblaze work on the slideshow
+- Trailblaze work on the slideshow (COMPLETED)
 
 - Anti-racism training (COMPLETE)
 
-#### Micah Tien: EMBED
+### Micah Tien: EMBED
 
-- Focus on embedding images
+- Focus on embedding images (IN-PROGRESS)
 
-- Figure out background imaging and opacity
-
-#### Tyler Le: IDK
-
-- Show us what you can do
-
-- Give input on technical issues
-
-- Use your expertise
-
-#### Arivan Verma: BRANDING
-
-- Give us a brand name!
-
-- Really fill out the ins and outs of what we want to look like
-
-- Research more into aesthetics and attracting potential registrees
-
-#### Brannon Lai and Jonah Fearnley: On Break
+- Figure out background imaging and opacity (IN-PROGRESS)
 
 ---
+
+### To Do List 10/3: Crunch Time!
+
+#### EVERYBODY: Do whatever you can to help out with the front end. Feel free to share any and all ideas, they're all welcome.
+
+#### Jeffrey Zou: STRUCTURE
+
+- Add empty divs for future elements until further notice
+
+- Be good
+
+#### Micah Tien: REVIEW
+
+- Try your best to finish some of the backlogged work
+
+- Be good
+
+#### Anhkhoa Le: REDESIGN
+
+- Backlogged work, you have quite a pbit of it
+
+- Be good
+
+#### Arivan Verma: LEAD
+
+- Act as main creative lead for today so Anhkhoa can finish backlogged work
+
+- Be good
