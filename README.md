@@ -131,3 +131,7 @@ Brannon Lai (Lead of Design)
 - Act as main creative lead for today so Anhkhoa can finish backlogged work
 
 - Be good
+
+#### Brannon Lai: MORAL SUPPORT
+
+- ehe!
