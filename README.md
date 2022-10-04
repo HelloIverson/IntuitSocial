@@ -52,7 +52,7 @@ Brannon Lai (Lead of Design)
  
 - Plan out script and coordination for the video (IN-PROGRESS)
         
-- Think of uniquenesss propositions and the competitive market (IN-PROGRESS)
+- Think of uniquenesss propositions and the competitive market (COMPLETE)
 
 ### Jonah on creative team w/ Anhkhoa + Arivan
 
@@ -88,7 +88,7 @@ Brannon Lai (Lead of Design)
 
 ### Anhkhoa Le: DESIGN
 
-- Figure out official color schemes (IN-POROGRESS)
+- Figure out official color schemes (COMPLETE)
 
 - Officialize the name and branding (COMPLETED)
 
@@ -122,7 +122,7 @@ Brannon Lai (Lead of Design)
 
 #### Anhkhoa Le: REDESIGN
 
-- Backlogged work, you have quite a pbit of it
+- Backlogged work, you have quite a pbit of it (COMPLETE)
 
 - Be good
 
