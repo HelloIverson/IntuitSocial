@@ -12,7 +12,7 @@ Arivan Verma (Lead of Pitch Design)
 Tyler Le (Javascript Lead)  
 Jonah Fearnley (Python Head and Lead of Intuit Decision)  
 Micah Tien (Main Code Lead)  
-Brannon Lai (Lead of Design)  
+Brannon Lai (Moral Support)  
 
 ## Archived List 9/28 (Completed Items Removed, Work Time 3 Hours):
 
