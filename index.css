@@ -152,3 +152,12 @@ p {
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
   padding: 3% 10%;
 }
+
+.map {
+  display: inline-block;
+}
+
+.community {
+  display: block;
+  color: #fffef9;
+}
