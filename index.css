@@ -76,6 +76,22 @@ body {
     }
   }
 
+.title-home h1 {
+  margin: 0 auto;
+  color: #FFD470; 
+  font-size: 120px;
+  padding: 0 px;
+  text-align: left;
+  text-align: center;
+}
+
+.title-home {
+  margin: 0 auto;
+  display: block;
+  background-color: #5F66C2;
+  opacity: 0.8;
+}
+
 .title h1 {
   margin: 0 auto;
   color: #FFD470; 
