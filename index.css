@@ -171,6 +171,7 @@ p {
   overflow: scroll;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
   padding: 3% 10%;
+  border-radius: 20px;
 }
 
 .map {
@@ -178,6 +179,6 @@ p {
 }
 
 .community {
-  display: block;
+  display: inline-block;
   color: #fffef9;
 }
