@@ -191,3 +191,7 @@ p {
   height: 83px;
   margin: 5px 3px 5px 3px;
 }
+
+hr {
+  border: 5px solid white;
+}
