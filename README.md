@@ -135,3 +135,41 @@ Brannon Lai (Moral Support)
 #### Brannon Lai: MORAL SUPPORT
 
 - ehe!
+
+### To Do List 10/5: Cramming!
+
+#### EVERYBODY: Work a lot today on individual tasks.
+
+#### Jeffrey Zou: FORMATTING
+
+- Finish home page 
+
+#### Micah Tien: IMAGES
+
+- Figure out background
+
+- Add images
+
+- Remove serifs
+
+#### Anhkhoa Le: MURAL
+
+- Do MURAL 
+
+- Start presentation
+
+#### Arivan Verma: LEAD
+
+- Fired!
+
+- Be good
+
+#### Brannon Lai: MORAL SUPPORT
+
+- ehe!
+
+#### Jonah Fearnley: PUBLICITY
+
+- Find emails
+
+- Begin emailing
