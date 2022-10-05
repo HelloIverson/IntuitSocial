@@ -43,6 +43,11 @@ body {
   
   /* Style the "active" element to highlight the current page */
   .topnav a.active {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 28px 32px;
+    text-decoration: none;
     background-color: #666DF5;
     color: #f5e4e0;
     border-radius: 20px;
@@ -63,7 +68,7 @@ body {
   
   /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
   @media screen and (max-width: 600px) {
-    .topnav a.nav-link, .topnav input[type=text] {
+    .topnav a, .topnav input[type=text] {
       float: none;
       display: block;
       text-align: left;
