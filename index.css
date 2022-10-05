@@ -155,4 +155,5 @@ p {
 .mapbox {
   overflow: scroll;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
+  padding: 3% 15%;
 }
