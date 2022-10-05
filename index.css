@@ -111,6 +111,7 @@ p {
   color: #ffffff;
   text-decoration: none;
   font-size: 48px;
+  padding: 3%;
 }
 
 .statlist .stat {
@@ -128,7 +129,6 @@ p {
 .importance {
   font-size: 84px;
   color: #FFD470;
-  margin: 10px 0px 10px 0px;
   font-family: Roboto;
 }
 
