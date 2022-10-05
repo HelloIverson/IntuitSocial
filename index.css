@@ -182,3 +182,9 @@ p {
   display: inline-block;
   color: #fffef9;
 }
+
+.logo {
+  border-radius: 20px;
+  height: 83px;
+  margin: 5px 3px 5px 3px;
+}
