@@ -93,7 +93,7 @@ body {
 
 p {
   margin: 25px 50px;  
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .statlist {
@@ -126,14 +126,14 @@ p {
 }
 
 .importance {
-  font-size: 56px;
+  font-size: 45px;
   color: #FFD470;
   font-family: Roboto;
   margin: 0%;
 }
 
 .number {
-  font-size: 48px;
+  font-size: 36px;
   color: #FFD470;
   margin: 15px 10px 5px 10px;
 }
