@@ -114,7 +114,7 @@ p {
 }
 
 .statlist .stat {
-  float: left;
+  display: inline-block;
   text-align: none;
   background-color: #ffffff;
   color: black;
