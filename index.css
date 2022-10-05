@@ -102,6 +102,7 @@ p {
   background-color: #959AF2;
   opacity: 0.8;
   border-radius: 0px 0px 20px 20px;
+  padding: 3%;
 }
 
 .statlist p.stat {
