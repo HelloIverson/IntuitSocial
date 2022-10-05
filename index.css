@@ -101,8 +101,8 @@ p {
 .statlist {
   overflow: hidden;
   background-image: linear-gradient(to right, #666DF5, #A4A8F2);
-  padding-left: 7%;
-  padding-right: 7%;
+  padding-left: 5%;
+  padding-right: 5%;
   margin: 100px 0px 100px 0px;
 }
 
@@ -122,8 +122,8 @@ p {
   border-radius: 20px;
   height: 256px;
   width: 312px;
-  margin-left: 7%;
-  margin-right: 7%;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 1%;
   margin-bottom: 2%;
   padding: 20px auto;
@@ -149,4 +149,8 @@ p {
   font-weight: bold;
   font-style: normal;
   font-display: swap;
+}
+
+.image-1 {
+  filter: hue-rotate(90deg);
 }
