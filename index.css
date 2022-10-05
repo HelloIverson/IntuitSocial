@@ -123,6 +123,7 @@ p {
   width: 312px;
   margin: 5%;
   padding: auto;
+  vertical-align: middle;
 }
 
 .importance {
