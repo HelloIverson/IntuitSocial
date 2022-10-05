@@ -1,5 +1,5 @@
 body {
-  background-color: #f8f3f0;
+  background-color: #b1b2f3;
 }
 
 .center {
@@ -14,7 +14,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #bd9d83;
+    background-color: #959AF2;
     border-radius: 20px 20px 0px 0px;
     padding-left: 3px;
   }
@@ -34,7 +34,7 @@ body {
 
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #f5e4e0;
+    background-color: #878cf0;
     color: black;
     border-radius: 20px;
     margin: 5px 3px 5px 3px;
@@ -42,7 +42,7 @@ body {
   
   /* Style the "active" element to highlight the current page */
   .topnav a.active {
-    background-color: #5a3b21;
+    background-color: #666DF5;
     color: #f5e4e0;
     border-radius: 20px;
     margin: 5px 3px 5px 3px;
@@ -87,7 +87,7 @@ body {
 .title {
   margin: 0 auto;
   display: block;
-  background-color: #bd9d83;
+  background-color: #959AF2;
   height: 138px;
   opacity: 0.8;
   border-radius: 0px 0px 20px 20px;
