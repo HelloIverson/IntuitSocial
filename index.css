@@ -88,7 +88,6 @@ body {
   margin: 0 auto;
   display: block;
   background-color: #959AF2;
-  height: 138px;
   opacity: 0.8;
   border-radius: 0px 0px 20px 20px;
 }
@@ -99,16 +98,17 @@ p {
 }
 
 .statlist {
-  overflow: hidden;
-  background-image: linear-gradient(to right, #666DF5, #A4A8F2);
-  padding: 3%;
-  margin: 100px 0px 100px 0px;
+  margin: 0 auto;
+  display: block;
+  background-color: #959AF2;
+  opacity: 0.8;
+  border-radius: 0px 0px 20px 20px;
 }
 
 .statlist p.stat {
   float: left;
   display: block;
-  color: black;
+  color: #ffffff;
   text-decoration: none;
   font-size: 48px;
 }
@@ -116,8 +116,7 @@ p {
 .statlist .stat {
   display: inline-block;
   text-align: none;
-  background-color: #ffffff;
-  color: black;
+  color: #ffffff;
   border-radius: 20px;
   height: 50%;
   width: 25%;
@@ -135,7 +134,7 @@ p {
 
 .number {
   font-size: 48px;
-  color: rgb(105, 19, 105);
+  color: #FFD470;
   margin: 15px 10px 5px 10px;
 }
 
