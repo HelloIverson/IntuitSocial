@@ -7,3 +7,7 @@ function preload() {
 function draw() {
   image(pjsklogo, 0, 0);
 }
+
+function regFuc() {
+  window.location.href = "/pages/register.html";
+}
