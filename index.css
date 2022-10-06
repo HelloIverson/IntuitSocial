@@ -188,7 +188,7 @@ p {
 }
 
 .community {
-  display: block;
+  display: inline-block;
   color: #fffef9;
   font-size: 150%;
 }
