@@ -228,6 +228,9 @@ hr {
 .toppage {
   width: 100%;
   height: 500px;
+  background-image: url("images/pjsk-logo.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .why {
