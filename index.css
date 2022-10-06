@@ -210,7 +210,7 @@ p {
 
 .mapbox button:hover {
   animation-name: regButton;
-  animation-duration: 4s;
+  animation-duration: 2s;
 }
 
 .logo {
