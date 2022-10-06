@@ -9,5 +9,5 @@ function draw() {
 }
 
 function regFuc() {
-  window.location.href = "/pages/register.html";
+  window.location.href = "IntuitSocial/pages/register.html";
 }
