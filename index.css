@@ -181,22 +181,6 @@ p {
   padding: 3% 10%;
 }
 
-.mapbox button {
-  display: inline-block;
-  height: 3em;
-  width: 20%;
-  border: #666DF5;
-  background-color: #ffffff;
-  color: #959AF2;
-  border-radius: 20px;
-  padding: 1em;
-}
-
-.mapbox button:hover {
-  animation-name: regButton;
-  animation-duration: 1s;
-}
-
 .map {
   display: inline-block;
 }
@@ -206,6 +190,23 @@ p {
   color: #fffef9;
   vertical-align: top;
   font-size: 150%;
+}
+
+.mapbox button {
+  display: inline-block;
+  vertical-align: top;
+  border-width: 5px;
+  border-color: #666DF5;
+  background-color: #ffffff;
+  color: #959AF2;
+  border-radius: 20px;
+  padding: 2em;
+  margin: auto;
+}
+
+.mapbox button:hover {
+  animation-name: regButton;
+  animation-duration: 4s;
 }
 
 .logo {
@@ -221,7 +222,10 @@ hr {
   border: 5px solid white;
 }
 
-
+.toppage {
+  width: 100%;
+  height: 250px;
+}
 
 .toppage img{
   height: 100%;
