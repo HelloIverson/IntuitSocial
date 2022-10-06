@@ -98,7 +98,7 @@ body {
 
 .title-home {
   overflow: hidden;
-  width: inherit;
+  width: 100%;
   height: inherit;
   margin: 0 auto;
   display: block;
@@ -197,7 +197,7 @@ p {
 
 .mapbox button {
   display: inline-block;
-  vertical-align: top;
+  vertical-align: middle;
   border-width: 5px;
   border-color: #666DF5;
   background-color: #ffffff;
@@ -233,8 +233,7 @@ hr {
 
 .toppage img{
   display: block;
-  margin-left: auto;
-  margin-right:auto;
+  margin: auto;
   height: 90%;
   width: 90%;
 }
