@@ -182,13 +182,14 @@ p {
 }
 
 .mapbox button {
-  display: block;
-  height: 10%;
+  display: inline-block;
+  height: 3em;
   width: 20%;
   border: #666DF5;
   background-color: #ffffff;
   color: #959AF2;
   border-radius: 20px;
+  padding: 1em;
 }
 
 .mapbox button:hover {
