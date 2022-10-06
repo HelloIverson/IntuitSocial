@@ -228,3 +228,15 @@ hr {
   width: auto;
 }
 
+.why {
+  overflow: hidden;
+  background-color: #5F66C2;
+}
+
+.why .why-us-txt {
+  display: inline-block;
+}
+
+.why .why-us-img {
+  display: inline-block;
+}
