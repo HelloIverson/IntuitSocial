@@ -190,12 +190,11 @@ p {
   background-color: #ffffff;
   color: #959AF2;
   border-radius: 20px;
-  animation-name: regButton;
-  animation-duration: 1s;
 }
 
 .mapbox button:hover {
-
+  animation-name: regButton;
+  animation-duration: 1s;
 }
 
 .map {
