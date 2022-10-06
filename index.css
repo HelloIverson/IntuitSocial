@@ -188,14 +188,13 @@ p {
 }
 
 .community {
-  display: inline-block;
+  display: block;
   color: #fffef9;
-  vertical-align: top;
   font-size: 150%;
 }
 
 .mapbox button {
-  display: inline-block;
+  display: block;
   border-width: 2px;
   border-color: #666DF5;
   font-size: 32px;
