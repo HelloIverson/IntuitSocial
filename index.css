@@ -200,3 +200,8 @@ hr {
   margin: 0;
   border: 5px solid white;
 }
+
+.toppage img{
+  height: 100%;
+  width: auto;
+}
