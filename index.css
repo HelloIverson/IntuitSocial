@@ -179,7 +179,7 @@ p {
 
 .mapbox {
   overflow: hidden;
-  background-image: linear-gradient(to right, #666DF5, #A4A8F2);
+  background-image: linear-gradient(to bottom, #666DF5, #A4A8F2);
   padding: 3% 10%;
 }
 
