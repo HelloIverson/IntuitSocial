@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+    <h4 class="data">Info</h4>
+
+    <div>
+        <div>
+            <?php foreach($data as $user) { ?>
+
+                <div>
+                    <div>
+                        <div>
+                            <h6><?php echo htmlspecialchars($data['last_name']); ?></h6>
+                            <div><?php echo htmlspecialchars($data['first_name']); ?></div>
+                        </div>    
+                    </div>
+                </div>
+
+            }
+        </div>
+    </div>
+
+</html>
