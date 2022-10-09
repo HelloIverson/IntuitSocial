@@ -8,6 +8,16 @@ body {
   to {background-color: #959AF2; color: #ffffff;}
 }
 
+.center {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.center iframe {
+  display: block;
+  margin: 0 auto;
+}
+
 .topnav {
     overflow: hidden;
     background-color: #959AF2;
