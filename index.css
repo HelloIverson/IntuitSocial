@@ -165,7 +165,6 @@ p {
 .importance {
   font-size: 3em;
   color: #FFD470;
-  font-family: Roboto;
   margin: 0%;
 }
 
@@ -173,15 +172,6 @@ p {
   font-size: 36px;
   color: #FFD470;
   margin: 15px 50px 5px ;
-}
-
-@font-face {
-  font-family: Roboto;
-  src: url('RobotoSlab-Bold.woff2') format('woff2'),
-      url('RobotoSlab-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
 }
 
 .mapbox {
