@@ -180,7 +180,7 @@ p {
 
 .mapbox {
   overflow: hidden;
-  background-image: linear-gradient(to bottom, #666DF5, #A4A8F2);
+  background-image: linear-gradient(to bottom, #666DF5, #878cf0);
   padding: 3% 20%;
 }
 
@@ -192,7 +192,7 @@ p {
   vertical-align: top;
   display: inline-block;
   color: #fffef9;
-  font-size: 150%;
+  font-size: 200%;
   margin: 0 auto;
 }
 
@@ -239,7 +239,7 @@ hr {
 
 .why {
   overflow: hidden;
-  background-image: linear-gradient(to top, #666DF5, #A4A8F2);
+  background-image: linear-gradient(to top, #666DF5, #878cf0);
   padding: 2% 5%;
 }
 
