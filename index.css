@@ -244,6 +244,7 @@ hr {
     height: 80%;
     text-align: center;
     margin: 5%;
+    vertical-align: top;
   }
 
   .testimoniallist .testimonial .ihatethis{
