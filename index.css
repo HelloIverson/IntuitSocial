@@ -23,6 +23,7 @@ body {
     background-color: #959AF2;
     border-radius: 20px 20px 0px 0px;
     padding-left: 3px;
+    position: sticky;
   }
 
   /* Style the links inside the navigation bar */
