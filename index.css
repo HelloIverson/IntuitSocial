@@ -261,3 +261,22 @@ hr {
 .why .why-us-img {
   display: inline-block;
 }
+
+.testimoniallist {
+  overflow: hidden;
+  background-image: linear-gradient(to bottom, #666DF5, #878cf0);
+}
+
+.testimonial {
+  display: block;
+  width: 25%;
+  height: 5rem;
+  text-align: center;
+}
+
+.testimonial img {
+  border-radius: 100%;
+  width: 50%;
+  height: 50%;
+  margin: 10% 25%;
+}
