@@ -17,7 +17,7 @@ body {
 }
 
 .importance {
-  font-size: 5em;
+  font-size: 4em;
   color: #FFD470;
   margin: 0%;
 }
@@ -101,7 +101,7 @@ body {
     margin: 5px 3px 5px 3px;
   }
 
-.title-home {
+.title {
   overflow: hidden;
   width: 100%;
   height: inherit;
@@ -111,12 +111,10 @@ body {
   opacity: 0.9;
 }
 
-  .title-home h1 {
+  .title h1 {
     margin: 0 auto;
     color: #FFD470; 
     font-size: 100px;
-    padding: 0 px;
-    text-align: left;
     text-align: center;
   }
 
