@@ -236,11 +236,17 @@ hr {
 
 .why {
   overflow: hidden;
-  background-color: #5F66C2;
+  background-image: linear-gradient(to top, #666DF5, #A4A8F2);
 }
 
 .why .why-us-txt {
   display: inline-block;
+  overflow: hidden;
+  width: 40%;
+  padding: 2em;
+  color:#ffffff;
+  background-color: #5F66C2;
+  margin: 5%;
 }
 
 .why .why-us-img {
