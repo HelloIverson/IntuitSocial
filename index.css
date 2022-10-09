@@ -8,16 +8,6 @@ body {
   to {background-color: #959AF2; color: #ffffff;}
 }
 
-.center {
-  width: 700px;
-  margin: 0 auto;
-}
-
-.center iframe {
-  display: block;
-  margin: 0 auto;
-}
-
 .topnav {
     overflow: hidden;
     background-color: #959AF2;
@@ -120,7 +110,6 @@ body {
   margin: 0 auto;
   display: block;
   background-color: #5F66C2;
-  opacity: 0.8;
 }
 
 p {
@@ -135,6 +124,10 @@ p {
   margin: 0 auto;
   display: block;
   padding: 1% 3%;
+}
+
+.statlist h2 {
+  text-align: center;
 }
 
 .statlist p.stat {
@@ -152,7 +145,7 @@ p {
   color: #ffffff;
   height: 50%;
   width: 25%;
-  margin: 1% 3%;
+  margin: 1% 4%;
   padding: auto;
   vertical-align: middle;
 }
