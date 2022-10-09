@@ -136,7 +136,7 @@ p {
   padding: 1% 3%;
 }
 
-.statlist h2 {
+.statlist .importance {
   text-align: center;
 }
 
