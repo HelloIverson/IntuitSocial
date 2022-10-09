@@ -193,6 +193,7 @@ p {
   display: inline-block;
   color: #fffef9;
   font-size: 150%;
+  margin: 0 auto;
 }
 
 .mapbox button {
