@@ -17,7 +17,7 @@ body {
 }
 
 .importance {
-  font-size: 4em;
+  font-size: 3em;
   color: #FFD470;
   margin: 0%;
 }
@@ -177,8 +177,11 @@ p {
     vertical-align: top;
     display: inline-block;
     color: #fffef9;
-    font-size: 200%;
-    margin: 0 auto;
+    margin: 0 2%;
+  }
+
+  .mapbox .community p {
+    color: #ffffff;
   }
 
   .mapbox button {
