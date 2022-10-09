@@ -166,7 +166,7 @@ p {
 .number {
   font-size: 36px;
   color: #FFD470;
-  margin: 15px 10px 5px 10px;
+  margin: 15px 5% 5px ;
 }
 
 @font-face {
