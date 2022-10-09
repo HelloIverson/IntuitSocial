@@ -11,6 +11,7 @@ body {
 .center {
   width: 60%;
   margin: 0 auto;
+  text-align: center;
 }
 
 .center iframe {
@@ -277,6 +278,10 @@ hr {
   height: 80%;
   text-align: center;
   margin: 5%;
+}
+
+.testimonial .importance{
+  color: #272323;
 }
 
 .testimonial img {
