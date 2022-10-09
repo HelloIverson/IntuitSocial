@@ -167,7 +167,6 @@ p {
   color: #FFD470;
   font-family: Roboto;
   margin: 0%;
-  font-style: italic;
 }
 
 .number {
@@ -270,6 +269,7 @@ hr {
 .testimoniallist {
   overflow: hidden;
   background-image: linear-gradient(to bottom, #666DF5, #878cf0);
+  padding: 0% 5%;
 }
 
 .testimonial {
@@ -282,6 +282,7 @@ hr {
 
 .testimonial .ihatethis{
   color: #272323;
+  font-size: 1.5em;
 }
 
 .testimonial img {
