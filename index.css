@@ -230,10 +230,11 @@ hr {
     display: inline-block;
     width: 40%;
     vertical-align: center;
+  }
+
+  .why .why-us-img img {
+    width: 100%;
     border-radius: 20px;
-    margin: auto 5%;
-
-
   }
 
 .testimoniallist {
