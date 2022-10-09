@@ -140,6 +140,7 @@ p {
 
 .statlist .importance {
   text-align: center;
+  font-style: italic;
 }
 
 .statlist p.stat {
@@ -270,7 +271,7 @@ hr {
   margin: 5%;
 }
 
-.ihatethis{
+.testimonial .ihatethis{
   color: #ffffff;
   font-size: 1.5em;
 }
