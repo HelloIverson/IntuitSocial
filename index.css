@@ -8,15 +8,18 @@ body {
   to {background-color: #959AF2; color: #ffffff;}
 }
 
-.center {
-  width: 60%;
-  margin: 0 auto;
-  text-align: center;
+.toppage {
+  width: 100%;
+  height: 500px;
+  background-image: url("images/pjsk-logo.png");
+  background-position: center;
+  background-size: cover;
 }
 
-.center iframe {
-  display: block;
-  margin: 0 auto;
+.importance {
+  font-size: 5em;
+  color: #FFD470;
+  margin: 0%;
 }
 
 .topnav {
@@ -89,15 +92,14 @@ body {
       border: 1px solid #ccc;
     }
   }
-
-.title-home h1 {
-  margin: 0 auto;
-  color: #FFD470; 
-  font-size: 100px;
-  padding: 0 px;
-  text-align: left;
-  text-align: center;
-}
+  
+  .topnav .logo {
+    float: left;
+    display: block;
+    border-radius: 20px;
+    height: 83px;
+    margin: 5px 3px 5px 3px;
+  }
 
 .title-home {
   overflow: hidden;
@@ -109,20 +111,14 @@ body {
   opacity: 0.9;
 }
 
-.title h1 {
-  margin: 0 auto;
-  color: #FFD470; 
-  font-size: 120px;
-  padding: 0 px;
-  text-align: left;
-  text-align: center;
-}
-
-.title {
-  margin: 0 auto;
-  display: block;
-  background-color: #5F66C2;
-}
+  .title-home h1 {
+    margin: 0 auto;
+    color: #FFD470; 
+    font-size: 100px;
+    padding: 0 px;
+    text-align: left;
+    text-align: center;
+  }
 
 p {
   margin: 25px 50px;  
@@ -138,36 +134,30 @@ p {
   padding: 1% 3%;
 }
 
-.statlist .importance {
-  text-align: center;
-  font-style: italic;
-}
+  .statlist .importance {
+    text-align: center;
+    font-style: italic;
+  }
 
-.statlist p.stat {
-  float: left;
-  display: block;
-  color: #ffffff;
-  text-decoration: none;
-  font-size: 48px;
-  padding: 1% 3%;
-}
+  .statlist p.stat {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 48px;
+    padding: 1% 3%;
+  }
 
-.statlist .stat {
-  display: inline-block;
-  text-align: none;
-  color: #ffffff;
-  height: 50%;
-  width: 25%;
-  margin: 1% 4%;
-  padding: auto;
-  vertical-align: middle;
-}
-
-.importance {
-  font-size: 3em;
-  color: #FFD470;
-  margin: 0%;
-}
+  .statlist .stat {
+    display: inline-block;
+    text-align: none;
+    color: #ffffff;
+    height: 50%;
+    width: 25%;
+    margin: 1% 4%;
+    padding: auto;
+    vertical-align: middle;
+  }
 
 .number {
   font-size: 36px;
@@ -181,57 +171,41 @@ p {
   padding: 3% 24.4%;
 }
 
-.map {
-  display: inline-block;
-}
+  .mapbox .map {
+    display: inline-block;
+  }
 
-.community {
-  vertical-align: top;
-  display: inline-block;
-  color: #fffef9;
-  font-size: 200%;
-  margin: 0 auto;
-}
+  .mapbox .community {
+    vertical-align: top;
+    display: inline-block;
+    color: #fffef9;
+    font-size: 200%;
+    margin: 0 auto;
+  }
 
-.mapbox button {
-  display: block;
-  border-width: 2px;
-  border-color: #666DF5;
-  font-size: 32px;
-  background-color: #ffffff;
-  color: #5F66C2;
-  border-radius: 20px;
-  padding: 2rem;
-  margin: 10% 0%;
-  margin: auto;
-}
+  .mapbox button {
+    display: block;
+    border-width: 2px;
+    border-color: #666DF5;
+    font-size: 32px;
+    background-color: #ffffff;
+    color: #5F66C2;
+    border-radius: 20px;
+    padding: 2rem;
+    margin: 10% 0%;
+    margin: auto;
+  }
 
-.mapbox button:hover {
-  animation-name: regButton;
-  animation-duration: 0.5s;
-  animation-fill-mode: forwards;
-}
-
-.logo {
-  float: left;
-  display: block;
-  border-radius: 20px;
-  height: 83px;
-  margin: 5px 3px 5px 3px;
-}
+  .mapbox button:hover {
+    animation-name: regButton;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+  }
 
 hr {
   margin: 0;
   color: white;
   border: 5px solid white;
-}
-
-.toppage {
-  width: 100%;
-  height: 500px;
-  background-image: url("images/pjsk-logo.png");
-  background-position: center;
-  background-size: cover;
 }
 
 .why {
@@ -240,22 +214,22 @@ hr {
   padding: 2% 5%;
 }
 
-.why .why-us-txt {
-  display: inline-block;
-  overflow: hidden;
-  width: 40%;
-  padding: 2em;
-  color:#ffffff;
-  background-color: #5F66C2;
-  margin: 3% 0%;
-  border-radius: 20px;
-  border-width: 2px;
-  border-color: #FFD470;
-}
+  .why .why-us-txt {
+    display: inline-block;
+    overflow: hidden;
+    width: 40%;
+    padding: 2em;
+    color:#ffffff;
+    background-color: #5F66C2;
+    margin: 3% 0%;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: #FFD470;
+  }
 
-.why .why-us-img {
-  display: inline-block;
-}
+  .why .why-us-img {
+    display: inline-block;
+  }
 
 .testimoniallist {
   overflow: hidden;
@@ -263,24 +237,40 @@ hr {
   padding: 0% 5%;
 }
 
-.testimonial {
-  display: block;
-  width: 20%;
-  height: 80%;
+  .testimoniallist .testimonial {
+    display: block;
+    width: 20%;
+    height: 80%;
+    text-align: center;
+    margin: 5%;
+  }
+
+  .testimoniallist .testimonial .ihatethis{
+    color: #ffffff;
+    font-size: 1.5em;
+  }
+
+  .testimoniallist .testimonial .importance {
+    font-size: 2.5em;
+  }
+
+  .testimoniallist .testimonial img {
+    border-radius: 100%;
+    width: 50%;
+    height: 50%;
+    margin: 10% 25%;
+    border-width: 3px;
+    border-color: #FFD470;
+  }
+
+/* only affects register page */
+.center {
+  width: 60%;
+  margin: 0 auto;
   text-align: center;
-  margin: 5%;
 }
 
-.testimonial .ihatethis{
-  color: #ffffff;
-  font-size: 1.5em;
-}
-
-.testimonial img {
-  border-radius: 100%;
-  width: 50%;
-  height: 50%;
-  margin: 10% 25%;
-  border-width: 3px;
-  border-color: #FFD470;
+.center iframe {
+  display: block;
+  margin: 0 auto;
 }
