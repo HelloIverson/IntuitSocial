@@ -239,7 +239,7 @@ hr {
 }
 
   .testimoniallist .testimonial {
-    display: block;
+    display: inline-block;
     width: 20%;
     height: 80%;
     text-align: center;
