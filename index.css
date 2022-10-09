@@ -236,7 +236,7 @@ hr {
 
 .why {
   overflow: hidden;
-  background-image: linear-gradient(to top, #666DF5, #878cf0);
+  background-image: linear-gradient(to bottom, #666DF5, #878cf0);
   padding: 2% 5%;
 }
 
