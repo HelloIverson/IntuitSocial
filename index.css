@@ -227,9 +227,10 @@ hr {
   }
 
   .why .why-us-img {
+    overflow: hidden;
     display: inline-block;
+    vertical-align: top;
     width: 40%;
-    vertical-align: center;
   }
 
   .why .why-us-img img {
