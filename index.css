@@ -30,6 +30,7 @@ body {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
+    z-index: 2;
   }
 
   .topnav a.nav-link {
@@ -162,7 +163,7 @@ p {
 }
 
 .importance {
-  font-size: 45px;
+  font-size: 3em;
   color: #FFD470;
   font-family: Roboto;
   margin: 0%;
@@ -249,7 +250,6 @@ hr {
   padding: 2% 5%;
 }
 
-
 .why .why-us-txt {
   display: inline-block;
   overflow: hidden;
@@ -280,7 +280,7 @@ hr {
   margin: 5%;
 }
 
-.testimonial .importance{
+.testimonial .ihatethis{
   color: #272323;
 }
 
