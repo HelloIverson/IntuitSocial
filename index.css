@@ -222,14 +222,18 @@ hr {
     padding: 2em;
     color:#ffffff;
     background-color: #5F66C2;
-    margin: 3% 0%;
+    margin: 3% 5%;
     border-radius: 20px;
-    border-width: 2px;
-    border-color: #FFD470;
   }
 
   .why .why-us-img {
     display: inline-block;
+    width: 40%;
+    vertical-align: center;
+    border-radius: 20px;
+    margin: auto 5%;
+
+
   }
 
 .testimoniallist {
