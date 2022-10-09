@@ -27,7 +27,6 @@ body {
     position: -webkit-sticky;
   }
 
-  /* Style the links inside the navigation bar */
   .topnav a.nav-link {
     float: left;
     display: block;
@@ -40,7 +39,6 @@ body {
     margin: 5px 3px 5px 3px;
   }
 
-  /* Change the color of links on hover */
   .topnav a.nav-link:hover {
     background-color: #878cf0;
     color: rgb(255, 245, 245);
@@ -48,7 +46,6 @@ body {
     margin: 5px 3px 5px 3px;
   }
   
-  /* Style the "active" element to highlight the current page */
   .topnav a.active {
     float: left;
     display: block;
@@ -63,7 +60,6 @@ body {
   }
 
   
-  /* Style the search box inside the navigation bar */
   .topnav input[type=text] {
     float: right;
     padding: 12px;
@@ -74,7 +70,6 @@ body {
     border-radius: 20px;
   }
   
-  /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
   @media screen and (max-width: 600px) {
     .topnav a, .topnav input[type=text] {
       float: none;
