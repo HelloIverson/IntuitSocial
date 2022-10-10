@@ -8,10 +8,6 @@ body {
   to {background-color: #959AF2; color: #ffffff;}
 }
 
-@keyframes resourceButtons {
-  
-}
-
 .toppage {
   width: 100%;
   height: 500px;
@@ -309,5 +305,6 @@ hr {
   font-size: 3rem;
   border-width: 2px;
   border-color: #5F66C2;
-  
+  animation: bounce;
+  animation-duration: 2s;
 }
