@@ -313,6 +313,14 @@ hr {
 }
 
 .resources button:hover {
+  color: #FFD470;
   animation: tada;
   animation-duration: 2s;
+  cursor: pointer;
+}
+
+.resources button:active {
+  animation: animate__rotateOutUpLeft;
+  animation-duration: 0.2s;
+
 }
