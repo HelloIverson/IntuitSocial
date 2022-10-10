@@ -287,6 +287,11 @@ hr {
 .resource-top {
   text-align: center;
   color: #ffffff;
+  margin: 5% 0;
+}
+
+.resource-top p {
+  font-size: 2em;
 }
 
 .resources {
@@ -297,7 +302,7 @@ hr {
 .resources button {
   overflow: hidden;
   display: inline-block;
-  height: 50%;
+  height: 3em;
   width: 20%;
   margin: 0 2%;
   background-color: #ffffff;
