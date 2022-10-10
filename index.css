@@ -305,6 +305,9 @@ hr {
   font-size: 3rem;
   border-width: 2px;
   border-color: #5F66C2;
+}
+
+.resources button:hover {
   animation: bounce;
   animation-duration: 2s;
 }
