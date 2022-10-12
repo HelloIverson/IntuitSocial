@@ -9,7 +9,7 @@ Starting in business is very difficult for those that are part of minority group
 Anhkhoa Le (Team Leader)  
 Jeffrey Zou (Project Lead)  
 Arivan Verma (Lead of Pitch Design)  
-Tyler Le (Javascript Lead)  
+Tyler Le (Editor and JS Lead :) )  
 Jonah Fearnley (Python Head and Lead of Intuit Decision)  
 Micah Tien (Main Code Lead)  
 Brannon Lai (Moral Support)  
