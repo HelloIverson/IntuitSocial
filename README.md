@@ -14,162 +14,74 @@ Jonah Fearnley (Python Head and Lead of Intuit Decision)
 Micah Tien (Main Code Lead)  
 Brannon Lai (Moral Support)  
 
-## Archived List 9/28 (Completed Items Removed, Work Time 3 Hours):
+---
 
-### Michan gets good (IN-PROGRESS)
-    
-- Learn how to get the js program to make graphics (COMPLETE)
-    
-### Jeffrey begins the SQL Database (IN-PROGRESS)
-
-- Create the database (TABLED)
-    
-- Link the SQL database (TABLED)
-    
-- Learn SQL lmao (IN-PROGRESS)
-    
-- Give up on life (IN-PROGRESS)
+Good job beating out finals everyone! We're in the endgame now, hope everyone realizes how well we've all done. But we can't stop yet team. We still have a lot to do, and not a lot of time to do it. So I'll be planning out a rough outline for the next few days to help us get on track. Remember, these are suggestions and not binding, feel free to request changes to your tasks if you feel the need to.
 
 ---
 
-## Archived List 9/29 (Completed Items Removed, Work Time 6 Hours):
-        
-### Brannon wireframe -> map
+## 10/23 - 10/25
 
-- Create interactive map! (good luck)
-        
-### Tyler on JS team with Michan
+### Anhkhoa:
 
-- Help load P5 on website
+- Get us any necessary information that we need for finals. Video length, mural board requirements, submission dates, we need it all to be precise if we're winning this.
 
-- Structure index page
+- Schedule a meeting with Ian. To my understanding you are the only one who has their contact, so we'll be relying on you buddy.
 
-- Help with general debugging
+- Guide Arivan and Johan through their tasks, fill in any gaps and holes that they can't fill.
 
-- Flex your skills on us tn
+- Lead the design on the mural board while Johan is taking the course, once he is done get him working on it.
 
-### Anhkhoa pitch
- 
-- Plan out script and coordination for the video (IN-PROGRESS)
-        
-- Think of uniquenesss propositions and the competitive market (COMPLETE)
+### Me:
 
-### Jonah on creative team w/ Anhkhoa + Arivan
+- I will be migrating all of the current code onto a local server for these next few days.
 
-- Go through Intuit design course
+- Coordinate all code changes with me either through issue/pull requests or a direct message.
 
-- Think of ideas for the website
+- Give information about interviewees and users to me so I can test the database.
 
-- Think of general ideas for uniqueness and functionality as well as branding things
+### Micah Tien:
 
----
+- Your job this week (you get longer since it's kinda hard) is to create PHP classes for the header, footer, and each page style in general. This will be very important to functionality, so make sure you can at least somewhat figure it out.
 
-## Break Day 9/30 
+- Create an account profile class using PHP. You don't necessarily have to work the SQL, but if you would like to it would be a great help.
 
----
+- Coordinate all efforts and questions through me and Brannon so we can have clear and effective communication.
 
-## Archived List 10/1: Back End Day (Completed Items Removed, Work Time 3 hours)
+### Brannon Lai:
 
-### Jeffrey Zou: **INTEGRATE**
+- Your goal this week is to make a search bar through HTML, and to connect search queries to either the JS or PHP. Take whatever measures necessary.
 
-- Integrate SQL into site (IN-PROGRESS)
+- Coordinate all efforts and questions through me and Micah so we can have clear and effective communication.
 
----
+### Tech Team General Notes:
 
-## To Do List 10/2: Front End Workload (Logged but not fully archived yet) (Work Time 3 Hours)
+- Please use pull requests/issues. I can not stress how important they are, especially for large changes.
 
-### Jeffrey Zou: STYLE
+- I would suggest using a personal IDE/text editor for these next few days, they will be a lot faster than Github Pages.
 
-- Focus on styling front end (COMPLETED)
+### Jonah Fearnley:
 
-- Add additional functions such as drop downs (IN-PROGRESS)
+- Continue working on the course. The completion is highly important to the success to the project.
 
-- Write out and format each page (WAITING ON INPUT)
+- Make sure to work with Anhkhoa to fill any requests he might have, and feel free to submit requests for him too.
 
-### Anhkhoa Le: DESIGN
+### Darren Stane:
 
-- Figure out official color schemes (COMPLETE)
+- Honestly just do whatever you're doing great so far.
 
-- Officialize the name and branding (COMPLETED)
+### Creative Team General Notes:
 
-- Trailblaze work on the slideshow (COMPLETED)
+- Focus on the Mural board, interviews, and course, for those are what are most important.
 
-- Anti-racism training (COMPLETE)
+- If you have any down time or are bored in any way, feel free to think of things we can put on the website or mural board, you guys are creative for a reason.
 
-### Micah Tien: EMBED
+### Tyler Le:
 
-- Focus on embedding images (IN-PROGRESS)
+- Times seem tough for you right now so feel free to just take a break for a bit. Once you feel better we can get you working on tasks, but just focus on yourself for now.
 
-- Figure out background imaging and opacity (IN-PROGRESS)
+### Everyone:
 
----
+- Deadline is soon, but also don't rush through any of this. We want quality work.
 
-### To Do List 10/3: Crunch Time!
-
-#### EVERYBODY: Do whatever you can to help out with the front end. Feel free to share any and all ideas, they're all welcome.
-
-#### Jeffrey Zou: STRUCTURE
-
-- Add empty divs for future elements until further notice
-
-- Be good
-
-#### Micah Tien: REVIEW
-
-- Try your best to finish some of the backlogged work
-
-- Be good
-
-#### Anhkhoa Le: REDESIGN
-
-- Backlogged work, you have quite a pbit of it (COMPLETE)
-
-- Be good
-
-#### Arivan Verma: LEAD
-
-- Act as main creative lead for today so Anhkhoa can finish backlogged work
-
-- Be good
-
-#### Brannon Lai: MORAL SUPPORT
-
-- ehe!
-
-### To Do List 10/5: Cramming!
-
-#### EVERYBODY: Work a lot today on individual tasks.
-
-#### Jeffrey Zou: FORMATTING
-
-- Finish home page 
-
-#### Micah Tien: IMAGES
-
-- Figure out background
-
-- Add images
-
-- Remove serifs
-
-#### Anhkhoa Le: MURAL
-
-- Do MURAL 
-
-- Start presentation
-
-#### Arivan Verma: LEAD
-
-- Fired!
-
-- Be good
-
-#### Brannon Lai: MORAL SUPPORT
-
-- ehe!
-
-#### Jonah Fearnley: PUBLICITY
-
-- Find emails
-
-- Begin emailing
+- Remember school still is a thing, don't slack there, but also this is more fun :)
