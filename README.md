@@ -9,7 +9,7 @@ Starting in business is very difficult for those that are part of minority group
 Anhkhoa Le (Team Leader)  
 Jeffrey Zou (Project Lead)  
 Arivan Verma (Lead of Pitch Design)  
-Tyler Le (Editor and JS Lead :) )  
+Tyler Le (Editor)  
 Jonah Fearnley (Python Head and Lead of Intuit Decision)  
 Micah Tien (Main Code Lead)  
 Brannon Lai (Moral Support)  
@@ -78,7 +78,7 @@ Good job beating out finals everyone! We're in the endgame now, hope everyone re
 
 ### Tyler Le:
 
-- Times seem tough for you right now so feel free to just take a break for a bit. Once you feel better we can get you working on tasks, but just focus on yourself for now.
+- Times seem tough for you right now so feel free to just take a break for a bit. Once you feel better we can get you working on tasks, but just focus on yourself for now. (Note from Tyler: Tell me if you need an edit done, I'm free on uptime so yeah)
 
 ### Everyone:
 
