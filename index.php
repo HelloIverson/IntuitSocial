@@ -4,12 +4,9 @@ require_once('header.php');
 ?>
 
 
-    <div class="topnav">
-         <a href="index.html"><img class="logo" src="images/pjsklol.jpg" alt="logo"></a>
-         <a class="nav-link" href="pages/about.html">Resources</a>
-         <a class="nav-link" href="pages/register.html">Register</a>
-         <input type="text" placeholder="Search..">
-      </div>
+<?php
+require_once('\IntuitSocial/elements/topnav.php')
+?>
       
       <div class="toppage">
          <div class="title">
