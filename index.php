@@ -5,7 +5,7 @@ require_once('header.php');
 
 
 <?php
-require_once('\IntuitSocial/elements/topnav.php')
+require_once('elements/topnav.php')
 ?>
       
       <div class="toppage">
@@ -106,5 +106,5 @@ require_once('\IntuitSocial/elements/topnav.php')
       </div>
    
 <?php
-require_once('\IntuitSocial/elements/footer.php')
+require_once('elements/footer.php')
 ?>
