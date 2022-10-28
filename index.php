@@ -104,7 +104,8 @@ require_once('elements/topnav.php')
             <h2 class="ihatethis">- Karina Sucahyo, Indonesian Entrepreneur</h2>
          </div>
       </div>
-   
-<?php
-require_once('elements/footer.php')
-?>
+      </body>
+   <footer>
+        <p>Hello Micah</p>
+    </footer>
+</html>
