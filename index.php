@@ -3,11 +3,6 @@
 require_once('header.php');
 ?>
 
-
-<?php
-require_once('elements/topnav.php')
-?>
-      
       <div class="toppage">
          <div class="title">
          <h1>PJSK:</h1>
