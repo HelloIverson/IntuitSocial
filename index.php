@@ -104,5 +104,7 @@ require_once('\IntuitSocial/elements/topnav.php')
             <h2 class="ihatethis">- Karina Sucahyo, Indonesian Entrepreneur</h2>
          </div>
       </div>
-   </body>
-</html>
+   
+<?php
+require_once('\IntuitSocial/elements/footer.php')
+?>
